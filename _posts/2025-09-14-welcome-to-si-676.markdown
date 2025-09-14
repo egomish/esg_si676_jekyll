@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Welcome to SI 676!"
+date:   2025-09-14 19:33:00 -0400
+categories: 
+---
+
+This is a test.
